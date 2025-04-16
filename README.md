@@ -11,7 +11,7 @@ SecureChat is a peer-to-peer capable encrypted messaging and file transfer syste
 
 ## Setup
 ```bash
-git clone https://your-repo.com/securechat
+git clone https://github.com/REALSYCRO/SecChat
 cd securechat
 chmod +x install.sh
 ./install.sh
