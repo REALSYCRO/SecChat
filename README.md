@@ -7,7 +7,6 @@ SecureChat is a peer-to-peer capable encrypted messaging and file transfer syste
 - 🖋️ Digital signatures to prevent spoofing
 - 📁 Encrypted file transfers
 - ⚙️ Configurable via `config.json`
-- 🐳 Docker support
 
 ## Setup
 ```bash
